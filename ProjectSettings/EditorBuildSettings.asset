@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/First Scene.unity
+    guid: 5677d37b172f69f4bb896c451f71f6a1
+  - enabled: 0
+    path: Assets/Scenes/PositionAndVisibility.unity
+    guid: 51bb573b000d9334c9e015a595efda9d
+  - enabled: 1
+    path: Assets/Scenes/StartingUI.unity
+    guid: 8061002e20f13d34881d473f426a449f
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 63636b1476297e74181e6d93d40c4f75, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 73f246508f80df24abafbd78fadcacdd, type: 2}
